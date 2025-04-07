@@ -1,2 +1,2 @@
 # git-survival
-I’m already screwed
+I’m stil screwed
