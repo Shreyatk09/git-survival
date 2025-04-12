@@ -1,2 +1,2 @@
 # git-survival
-I’m stil screwed
+I’m the best
